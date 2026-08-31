@@ -27,3 +27,8 @@ Alguns elementos não possuem tag de fechamento (são auto-fecháveis), como `<i
   <li>Primeiro passo</li>
   <li>Segundo passo</li>
 </ol>
+```
+## 4. Links e Imagens
+* **Links:** `<a href="https://exemplo.com" target="_blank">Visitar site</a>`
+
+* **Imagens:** `<img src="caminho/foto.jpg" alt="Descrição da imagem para acessibilidade">`
