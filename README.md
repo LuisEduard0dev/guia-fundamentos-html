@@ -1,5 +1,7 @@
 # Guia de Fundamentos de HTML para Estudantes
-> Versao definitiva e atualizada diretamente na branch main.
+feature/teste-conflito
+> Guia introdutório de Fundamentos de HTML para estudantes.
+main
 ## Objetivo
 Capacitar estudantes sem experiência a construir sua primeira página web em HTML do zero.
 
