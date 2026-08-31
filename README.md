@@ -1,5 +1,5 @@
 # Guia de Fundamentos de HTML para Estudantes
-> Guia mantido e atualizado na branch main.
+> Versao definitiva e atualizada diretamente na branch main.
 ## Objetivo
 Capacitar estudantes sem experiência a construir sua primeira página web em HTML do zero.
 
